@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="category_array">
+        <item>Nightlife</item>
+        <item>Dining</item>
+        <item>Culture</item>
+        <item>Outdoor</item>
+    </string-array>
+    <string name="explore_the_nightlife_of_your_city">Explore the nightlife of your city</string>
+</resources>
